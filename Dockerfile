@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-FROM node:16-bullseye
+FROM node:18-bullseye
 
 # setup environment
 ENV LANG C.UTF-8
